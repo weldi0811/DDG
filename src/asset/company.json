@@ -1,0 +1,40 @@
+{
+    "data" : [
+        {
+            "id" : "comp1",
+            "name" : "company a",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://static.klob.id/ver2/landing/7b9a47dd4d4a723507c3531e192f83ef.png"
+        },
+        {
+            "id" : "comp2",
+            "name" : "company b",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://static.klob.id/ver2/landing/7b9a47dd4d4a723507c3531e192f83ef.png"
+        },
+        {
+            "id" : "comp3",
+            "name" : "company c",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://static.klob.id/ver2/landing/7b9a47dd4d4a723507c3531e192f83ef.png"
+        },
+        {
+            "id" : "comp4",
+            "name" : "company d",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://static.klob.id/ver2/landing/7b9a47dd4d4a723507c3531e192f83ef.png"
+        },
+        {
+            "id" : "comp5",
+            "name" : "company e",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://static.klob.id/ver2/landing/7b9a47dd4d4a723507c3531e192f83ef.png"
+        },
+        {
+            "id" : "comp6",
+            "name" : "company f",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://static.klob.id/ver2/landing/7b9a47dd4d4a723507c3531e192f83ef.png"
+        }
+    ]
+}

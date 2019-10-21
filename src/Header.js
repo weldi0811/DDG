@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom'
+import logo from './asset/klob-logo.png'
 
 class Header extends Component {
 
@@ -8,23 +9,9 @@ class Header extends Component {
             <div>
                 <nav className='navbar navbar-expand-lg navbar-dark bg-dark mx-auto'>
                     
-                        <a className='navbar-brand text-primary'>SWAPI</a>
+                        <img  className='navbar-brand text-primary' src={logo} />
                     
-                    <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul className="navbar-nav mr-auto">
-                            <Link to='/'>
-                            <li className="nav-item active">
-                                <a className="nav-link">Movies <span class="sr-only"></span></a>
-                            </li>
-                            </Link>
-                            <Link to='/characters'>
-                            <li className="nav-item active">
-                                <a class="nav-link">Characters</a>
-                            </li>
-                            </Link>
-                        </ul>
-
-                    </div>
+                    
                 </nav>
 
             </div>

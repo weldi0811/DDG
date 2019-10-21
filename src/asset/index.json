@@ -1,0 +1,23 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "name" : "company",
+            "img" : "https://static.klob.id/ver2/home/924454a4de8b00e8f8e37f5647d5011e.png",
+            "listData" : "company.json"
+
+        },
+        {
+            "id" : 2,
+            "name" : "community",
+            "img" : "https://static.klob.id/ver2/home/0c674422b19a30f9d8c8c9c756b6fc34.png",
+            "listData" : "community.json"
+        },
+        {
+            "id" : 3,
+            "name" : "educational",
+            "img" : "https://static.klob.id/ver2/home/e59c7716bfcc80689880a516604fae00.png",
+            "listData" : "educational.json"
+        }
+    ]
+}

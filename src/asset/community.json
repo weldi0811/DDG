@@ -1,0 +1,40 @@
+{
+    "data" : [
+        {
+            "id" : "com1",
+            "name" : "community a",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://static.klob.id/ver2/landing/7b9a47dd4d4a723507c3531e192f83ef.pnghttps://s3-ap-southeast-1.amazonaws.com/files.catchup-in.com/public/mcois01/jpnxk1m1/picture-3.png"
+        },
+        {
+            "id" : "com2",
+            "name" : "community b",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://s3-ap-southeast-1.amazonaws.com/files.catchup-in.com/public/mcois01/jpnxk1m1/picture-3.png"
+        },
+        {
+            "id" : "com3",
+            "name" : "community c",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://s3-ap-southeast-1.amazonaws.com/files.catchup-in.com/public/mcois01/jpnxk1m1/picture-3.png"
+        },
+        {
+            "id" : "com4",
+            "name" : "community d",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://s3-ap-southeast-1.amazonaws.com/files.catchup-in.com/public/mcois01/jpnxk1m1/picture-3.png"
+        },
+        {
+            "id" : "com5",
+            "name" : "community e",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://s3-ap-southeast-1.amazonaws.com/files.catchup-in.com/public/mcois01/jpnxk1m1/picture-3.png"
+        },
+        {
+            "id" : "com6",
+            "name" : "community f",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a metus felis. Curabitur fringilla maximus ipsum, eu fringilla sapien rhoncus id.",
+            "img":"https://s3-ap-southeast-1.amazonaws.com/files.catchup-in.com/public/mcois01/jpnxk1m1/picture-3.png"
+        }
+    ]
+}
